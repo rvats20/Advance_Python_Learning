@@ -1,8 +1,7 @@
 # Advanced Python Learning
 
-!Python
 
-Welcome to the **Advanced Python Learning** repository! This repo is designed to help you master advanced Python concepts through practical examples and projects.
+Welcome to this course and exercises on **Advanced Python Learning** repository! This repo is designed to help you master advanced Python concepts through practical examples and projects.
 
 ## Table of Contents
 1. Introduction
@@ -14,7 +13,6 @@ Welcome to the **Advanced Python Learning** repository! This repo is designed to
 7. Contact
 
 ## Introduction
-!Python Logo
 
 This repository covers a range of advanced Python topics including:
 - Metaprogramming
