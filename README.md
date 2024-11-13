@@ -49,11 +49,6 @@ Contributions are welcome! Please read the contributing guidelines first.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-Feel free to reach out if you have any questions or suggestions:
-- **Email**: your.email@example.com
-- **LinkedIn**: Your LinkedIn
-- **Twitter**: @yourhandle
 
 ---
 
@@ -74,4 +69,3 @@ Happy Coding! 🎉
 
 6. **Contribution Guidelines**: Encourage contributions by providing clear guidelines on how others can contribute to your project.
 
-Feel free to customize this template to better fit your project. If you need any more help or have specific requirements, let me know!
